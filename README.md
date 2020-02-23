@@ -9,6 +9,8 @@ Components:
 | bootstrap-colorpicker | Apache 2 |
 | bootstrap-datepicker | Apache 2 |
 | bootstrap-daterangepicker | MIT |
+| bootstrap-slider | MIT |
+| bootstrap-wysihtml5 | MIT |
 | chart.js | MIT |
 | ckeditor | GPL/LGPL/MPL (third-party project sublicenses: BSD-3) |
 | datatables.net | MIT |
@@ -18,6 +20,7 @@ Components:
 | Flot | MIT |
 | font-awesome | OFL-1.1/MIT/CC-BY-3.0 |
 | fullcalendar | MIT |
+| iCheck | MIT |
 | inputmask | MIT |
 | ion.rangeSlider | MIT |
 | Ionicons | MIT |
@@ -34,3 +37,4 @@ Components:
 | raphael | MIT |
 | seiyria-bootstrap-slider | MIT |
 | select2 | MIT |
+| timepicker | MIT |
