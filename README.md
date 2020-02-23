@@ -4,13 +4,14 @@ Components:
 
 | Name | License |
 | - | - |
+| AdminLTE | MIT |
 | bootstrap | MIT |
 | bootstrap-colorpicker | Apache 2 |
 | bootstrap-datepicker | Apache 2 |
 | bootstrap-daterangepicker | MIT |
 | chart.js | MIT |
 | ckeditor | GPL/LGPL/MPL (third-party project sublicenses: BSD-3) |
-| datatables.net | |
+| datatables.net | MIT |
 | datatables.net-bs | MIT |
 | eve-raphael | MIT |
 | fastclick | MIT |
